@@ -1,0 +1,7 @@
+#C++ output junk 
+*.out
+*.js~
+*.swp
+*.cpp.swp
+*.js.swp
+
